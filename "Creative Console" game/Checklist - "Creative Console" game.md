@@ -133,7 +133,7 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h4>5. Game process</h4></td>
+  <td colspan="2"><h3>5. Game process</h3></td>
   <td>Pass</td>
   <td></td>
 </tr>
