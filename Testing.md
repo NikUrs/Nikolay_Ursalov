@@ -1,7 +1,7 @@
 <table>
 
 <tr>
-  <th>Checking</th>
+  <th colspan="2">Checking</th>
   <th>Status</th>
   <th>Bug / Comments</th>
 </tr>
