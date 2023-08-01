@@ -12,17 +12,17 @@
   
 </tr>
 <tr>
-  <td>1.1. Download on the Steam</td>
+  <td colspan="2">1.1. Download on the Steam</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>1.2. Installation</td>
+  <td colspan="2">1.2. Installation</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>1.3. Launching</td>
+  <td colspan="2">1.3. Launching</td>
   <td>Pass</td>
   <td></td>
 </tr>
