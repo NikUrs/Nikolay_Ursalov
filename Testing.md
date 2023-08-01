@@ -131,6 +131,11 @@
   <td></td>
 </tr>
 <tr>
+  <td>5.2. The custom format of the creating a mini game</td>
+  <td>Pass</td>
+  <td>Bug - 001 The object model that creates enemies models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
+</tr>
+<tr>
   <td>5.2. Character control </td>
   <td>Pass</td>
   <td></td>
@@ -201,7 +206,7 @@
   <td></td>
 </tr>
 <tr>
-  <td>5.10.3. sound down</td>
+  <td>5.10.3. Sound down</td>
   <td>Pass</td>
   <td></td>
 </tr>
