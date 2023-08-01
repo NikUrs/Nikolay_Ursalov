@@ -1,10 +1,10 @@
 <table>
 
 Platform: PC<br>
-OS: Windows
-OS Version: 10 x64
-Game Build version: 0.1.21
-Tester: Nikolay Ursalov
+OS: Windows<br>
+OS Version: 10 x64<br>
+Game Build version: 0.1.21<br>
+Tester: Nikolay Ursalov<br>
 
 <tr>
   <th colspan="2"><h3>Checking</h3></th>
