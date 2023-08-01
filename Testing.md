@@ -7,7 +7,7 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h4>1. Installing / Uninstalling & launching the game</h4></td>
+  <td colspan="2"><h3>1. Installing / Uninstalling & launching the game</h3></td>
   <td></td>
   <td></td>
 </tr>
