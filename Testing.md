@@ -1,9 +1,9 @@
 <table>
 
 <tr>
-  <th colspan="2"><h4>Checking</h4></th>
-  <th><h4>Status</h4></th>
-  <th><h4>Bug / Comments</h4></th>
+  <th colspan="2"><h4>Checking</h3></th>
+  <th><h3>Status</h3></th>
+  <th><h3>Bug / Comments</h3></th>
 </tr>
 
 <tr>
