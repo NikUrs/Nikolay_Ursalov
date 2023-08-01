@@ -1,7 +1,9 @@
 <table>
 
 <tr>
-  <th>Один</th>
+  <th>Checking</th>
+  <th>Status</th>
+  <th>Bug#id / Comments</th>
 </tr>
 
 <tr>
