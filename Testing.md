@@ -206,8 +206,23 @@
   <td></td>
 </tr>
                                          
-  <tr>
-  <td>5.8. Appearance of the main model characters</td>
+<tr>
+  <td>5.11. Game loading indicator</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.12. Exit</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.12.1. Via menu options</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.12.2. Via cross icon</td>
   <td>Pass</td>
   <td></td>
 </tr>
