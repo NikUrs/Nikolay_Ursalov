@@ -121,119 +121,119 @@
 </tr>
 
 <tr>
-  <td><h4>5. Game process</h4></td>
+  <td colspan="2"><h4>5. Game process</h4></td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.1. Guide-line for a first time experience</td>
+  <td> colspan="2"5.1. Guide-line for a first time experience</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.2. The custom format of the creating a mini game</td>
+  <td colspan="2">5.2. The custom format of the creating a mini game</td>
   <td>Pass</td>
   <td>Bug - 001 The object model that creates enemies models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
 </tr>
 
 <tr>
-  <td>5.3. Gameplay flow including starting and completing the level</td>
+  <td colspan="2">5.3. Gameplay flow including starting and completing the level</td>
   <td>Pass</td>
   <td>Bug - 001 The object model that creates enemies models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
 </tr>
 <tr>
-  <td>5.2. Character control </td>
+  <td colspan="2">5.2. Character control </td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.3. Saving scores</td>
+  <td colspan="2">5.3. Saving scores</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>5.3.1. During the game</td>
+  <td colspan="2">5.3.1. During the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.3.2. After the each mini game</td>
+  <td colspan="2">5.3.2. After the each mini game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.3.3. After the relaunching of the game</td>
+  <td colspan="2">5.3.3. After the relaunching of the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.4. Increasing the score during the game</td>
+  <td colspan="2">5.4. Increasing the score during the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.5. Pause</td>
+  <td colspan="2">5.5. Pause</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.6. Menu options</td>
+  <td colspan="2">5.6. Menu options</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.7. Mini games' animation</td>
+  <td colspan="2">5.7. Mini games' animation</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.8. Appearance of the main model characters</td>
+  <td colspan="2">5.8. Appearance of the main model characters</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.9. Appearance of the additional model characters (map, game objects)</td>
+  <td colspan="2">5.9. Appearance of the additional model characters (map, game objects)</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.10. Background Music and Sounds</td>
+  <td colspan="2">5.10. Background Music and Sounds</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>5.10.1. On the each stage of the game</td>
+  <td colspan="2">5.10.1. On the each stage of the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.10.2. Сompletely off the sound</td>
+  <td colspan="2">5.10.2. Сompletely off the sound</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.10.3. Sound down</td>
+  <td colspan="2">5.10.3. Sound down</td>
   <td>Pass</td>
   <td></td>
 </tr>
                                          
 <tr>
-  <td>5.11. Game loading indicator</td>
+  <td colspan="2">5.11. Game loading indicator</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.12. Exit</td>
+  <td colspan="2">5.12. Exit</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>5.12.1. Via menu options</td>
+  <td colspan="2">5.12.1. Via menu options</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>5.12.2. Via cross icon</td>
+  <td colspan="2">5.12.2. Via cross icon</td>
   <td>Pass</td>
   <td></td>
 </tr>
