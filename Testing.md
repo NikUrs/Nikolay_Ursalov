@@ -7,7 +7,7 @@
 </tr>
 
 <tr>
-  <td><h3>1. Installing / Uninstalling & launching the game</h3></td>
+  <td><h4>1. Installing / Uninstalling & launching the game</h4></td>
   <td>Download on the Steam</td>
 </tr>
 </table>
