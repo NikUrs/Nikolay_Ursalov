@@ -50,7 +50,7 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h4>3. Main menu</h4></td>
+  <td colspan="2"><h3>3. Main menu</h3></td>
   <td></td>
   <td></td>
 </tr>
