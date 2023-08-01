@@ -85,5 +85,41 @@
   <td></td>
 </tr>
 
+<tr>
+  <td><h3>4. Menu before starting the mini game</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.1. Animations </td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.2. Constructor of the level</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.3. Navigation between mini games</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.4. Mini games modes</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.5. Guide-line before starting the game </td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.6. Guide-line after the game is finished</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
 
 </table>
