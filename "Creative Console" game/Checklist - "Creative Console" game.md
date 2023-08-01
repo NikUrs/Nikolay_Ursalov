@@ -156,42 +156,42 @@
   </td>
 </tr>
 <tr>
-  <td colspan="2">5.2. Character control </td>
+  <td colspan="2">5.4. Character control </td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.3. Saving scores</td>
+  <td colspan="2">5.5. Saving scores</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.3.1. During the game</td>
+  <td colspan="2">5.5.1. During the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.3.2. After the each mini game</td>
+  <td colspan="2">5.5.2. After the each mini game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.3.3. After the relaunching of the game</td>
+  <td colspan="2">5.5.3. After the relaunching of the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.4. Increasing the score during the game</td>
+  <td colspan="2">5.6. Increasing the score during the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.5. Pause</td>
+  <td colspan="2">5.7. Pause</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.5. Mini game timer</td>
+  <td colspan="2">5.8. Mini game timer</td>
   <td>Pass</td>
   <td>Bug Report 003. The timer of the game round isn’t stopped after the game is collapsed   
   <a href="https://docs.google.com/spreadsheets/d/1dYIw_f5Ee45g1lpl0jiZws-KVrvgtIQU/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 003</a></td>
@@ -200,63 +200,63 @@
 
 
 <tr>
-  <td colspan="2">5.6. Menu options</td>
+  <td colspan="2">5.9. Menu options</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.7. Mini games' animation</td>
+  <td colspan="2">5.10. Mini games' animation</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.8. Appearance of the main model characters</td>
+  <td colspan="2">5.11. Appearance of the main model characters</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.9. Appearance of the additional model characters (map, game objects)</td>
+  <td colspan="2">5.12. Appearance of the additional model characters (map, game objects)</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.10. Background Music and Sounds</td>
+  <td colspan="2">5.13. Background Music and Sounds</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.10.1. On the each stage of the game</td>
+  <td colspan="2">5.13.1. On the each stage of the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.10.2. Сompletely off the sound</td>
+  <td colspan="2">5.13.2. Сompletely off the sound</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.10.3. Sound down</td>
+  <td colspan="2">5.13.3. Sound down</td>
   <td>Pass</td>
   <td></td>
 </tr>
                                          
 <tr>
-  <td colspan="2">5.11. Game loading indicator</td>
+  <td colspan="2">5.14. Game loading indicator</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.12. Exit</td>
+  <td colspan="2">5.15. Exit</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.12.1. Via menu options</td>
+  <td colspan="2">5.15.1. Via menu options</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5.12.2. Via cross icon</td>
+  <td colspan="2">5.15.2. Via cross icon</td>
   <td>Pass</td>
   <td></td>
 </tr>
