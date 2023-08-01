@@ -60,8 +60,8 @@
 </tr>
 <tr>
   <td>3.2. Market</td>
-  <td>Pass</td>
-  <td></td>
+  <td>Blocked</td>
+  <td>Need a credit card with funds</td>
 </tr>
 <tr>
   <td>3.3. Creating of the user profile</td>
@@ -85,27 +85,47 @@
 </tr>
 
 <tr>
-  <td><h4>4. Main menu</h4></td>
+  <td><h4>4. Menu before starting the mini game</h4></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>3.1. Menu items</td>
+  <td>4.1. Animations </td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>3.2. Market</td>
+  <td>4.2. Constructor of the level</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>3.3. Creating of the user profile</td>
+  <td>4.3. Navigation between mini games</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>3.4. Creating of the user profile via social buttons</td>
+  <td>4.4. Mini games modes</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.5. Guide-line before starting the game </td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.6. Guide-line after the game is finished</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5. Game process</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.1. Guide-line for a first time experience</td>
   <td>Pass</td>
   <td></td>
 </tr>
