@@ -54,32 +54,46 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.1. Menu items</td>
+  <td colspan="2">3.1. Main Menu screen</td>
   <td>Pass</td>
-  <td></td>
+  <td>Bug Report 005. Chinese words are shown on the main menu screen</br>
+  <a href="https://docs.google.com/spreadsheets/d/136ptngWWdCebSHk99Pl9DWrSRwNVvRtw/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a><br>
+    Bug Report 006. The text of the button is shown beyond its borders</br>
+  <a href="https://docs.google.com/spreadsheets/d/1E1L2WNzd9QIJbnJSeANiHoqPqQAB0Bup/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a>                                                                                                                                                                             
+                                                                                                                                                                                   
+  </td>
+
+  https://docs.google.com/spreadsheets/d/136ptngWWdCebSHk99Pl9DWrSRwNVvRtw/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true
 </tr>
 <tr>
-  <td colspan="2">3.2. Market</td>
+  <tr>
+  <td colspan="2">3.2. Settings</td>
+  <td>Pass</td>
+  <td>Bug Report 004. The button name is cut on both side in the "Setting" item</br>
+  <a href="https://docs.google.com/spreadsheets/d/1JtND4OXxiNjMxw6SjQKXEn2vB9zqSYrH/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a></td>
+</tr>
+<tr>
+  <td colspan="2">3.3. Market</td>
   <td>Blocked</td>
   <td>Need a credit card with funds</td>
 </tr>
 <tr>
-  <td colspan="2">3.3. Creating of the user profile via authorization form</td>
+  <td colspan="2">3.4. Creating of the user profile via authorization form</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.4. Creating of the user profile via social buttons</td>
+  <td colspan="2">3.5. Creating of the user profile via social buttons</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.5. Showing of users’ records in the animation format</td>
+  <td colspan="2">3.6. Showing of users’ records in the animation format</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.6. Social buttons of developers’ company</td>
+  <td colspan="2">3.7. Social buttons of developers’ company</td>
   <td>Pass</td>
   <td></td>
 </tr>
