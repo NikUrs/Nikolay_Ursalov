@@ -13,6 +13,7 @@
 </tr>
 <tr>
   <td>1.1. Download on the Steam</td>
+   <td></td>
   <td>Pass</td>
   <td></td>
 </tr>
