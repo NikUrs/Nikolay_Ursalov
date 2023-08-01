@@ -8,6 +8,12 @@
 
 <tr>
   <td><h4>1. Installing / Uninstalling & launching the game</h4></td>
-  <td>Download on the Steam</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>1.1. Download on the Steam</td>
+  <td>Pass</td>
+  <td></td>
 </tr>
 </table>
