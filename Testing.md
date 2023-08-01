@@ -1,32 +1,235 @@
 <table>
 
 <tr>
-  <th colspan="2">Checking</th>
+  <th>Checking</th>
   <th>Status</th>
   <th>Bug / Comments</th>
 </tr>
 
 <tr>
-  <td colspan="2"><h4>1. Installing / Uninstalling & launching the game</h4></td>
+  <td><h4>1. Installing / Uninstalling & launching the game</h4></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.1. Download on the Steam</td>
+  <td>1.1. Download on the Steam</td>
   <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.2. Installation</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.3. Launching</td>
-  <td>Pass</td>
-  <td colspan="2">Bug Report 001. The object model that creates enemies </br>
+  <td>Bug Report 001. The object model that creates enemies </br>
     models is set up outside the game area </br><a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to bug report 001</a></td>
 </tr>
+<tr>
+  <td>1.2. Installation</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1.3. Launching</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1.4. Uninstalling</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
 
+<tr>
+  <td><h4>2. Splash and Landing page</h4></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>2.1. Splash page</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>2.2. Landing page</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
 
+<tr>
+  <td><h4>3. Main menu</h4></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.1. Menu items</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.2. Market</td>
+  <td>Blocked</td>
+  <td>Need a credit card with funds</td>
+</tr>
+<tr>
+  <td>3.3. Creating of the user profile</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.4. Creating of the user profile via social buttons</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.5. Showing of users’ records in the animation format</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.6. Social buttons of developers’ company</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td><h4>4. Menu before starting the mini game</h4></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.1. Animations </td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.2. Constructor of the level</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.3. Navigation between mini games</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.4. Mini games modes</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.5. Guide-line before starting the game </td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4.6. Guide-line after the game is finished</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td><h4>5. Game process</h4></td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.1. Guide-line for a first time experience</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.2. The custom format of the creating a mini game</td>
+  <td>Pass</td>
+  <td>Bug - 001 The object model that creates enemies models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
+</tr>
+<tr>
+  <td>5.2. Character control </td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3. Saving scores</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3.1. During the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3.2. After the each mini game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3.3. After the relaunching of the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.4. Increasing the score during the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.5. Pause</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.6. Menu options</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.7. Mini games' animation</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.8. Appearance of the main model characters</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.9. Appearance of the additional model characters (map, game objects)</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10. Background Music and Sounds</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10.1. On the each stage of the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10.2. Сompletely off the sound</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10.3. Sound down</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+                                         
+<tr>
+  <td>5.11. Game loading indicator</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.12. Exit</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.12.1. Via menu options</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.12.2. Via cross icon</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
 </table>
