@@ -24,8 +24,7 @@
 <tr>
   <td colspan="2">1.3. Launching</td>
   <td>Pass</td>
-  <td>Bug Report 001. The object model that creates enemies
-    models is set up outside the game area </br><a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to bug report 001</a></td>
+  <td></td>
 </tr>
 <tr>
   <td colspan="2">1.4. Uninstalling</td>
@@ -98,7 +97,7 @@
 <tr>
   <td colspan="2">4.2. Constructor of the level</td>
   <td>Pass</td>
-  <td>Bug Report 001. The object model that creates enemies </br>
+  <td>Bug Report 001. The object model that creates enemies
     models is set up outside the game area </br><a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
 </tr>
 <tr>
