@@ -133,13 +133,13 @@
 <tr>
   <td colspan="2">5.2. The custom format of the creating a mini game</td>
   <td>Pass</td>
-  <td>Bug - 001 The object model that creates enemies models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
+  <td>Bug - 001 The object model that creates enemies models is set up outside the game area <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
 </tr>
 
 <tr>
   <td colspan="2">5.3. Gameplay flow including starting and completing the level</td>
   <td>Pass</td>
-  <td>Bug - 001 The object model that creates enemies models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
+  <td>Bug - 001 The object model that creates enemies models is set up outside the game area <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
 </tr>
 <tr>
   <td colspan="2">5.2. Character control </td>
