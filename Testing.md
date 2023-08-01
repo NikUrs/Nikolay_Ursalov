@@ -139,7 +139,8 @@
 <tr>
   <td colspan="2">5.3. Gameplay flow including starting and completing the level</td>
   <td>Pass</td>
-  <td>Bug Report 002. The timer of the game round isn’t stopped after the game is collapsed</br> <a href="https://docs.google.com/spreadsheets/d/1MWLGoraF_eIUYwD_x6T1-P8UT2ttqVMi/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a></td>
+  <td>Bug Report 002. The timer of the game round isn’t stopped after the game is collapsed   <a href="https://docs.google.com/spreadsheets/d/1MWLGoraF_eIUYwD_x6T1-P8UT2ttqVMi/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a></td>
+  Bug Report 003. The timer of the game round isn’t stopped after the game is collapsed   <a href="https://docs.google.com/spreadsheets/d/1dYIw_f5Ee45g1lpl0jiZws-KVrvgtIQU/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 003</a></td>
 </tr>
 <tr>
   <td colspan="2">5.2. Character control </td>
