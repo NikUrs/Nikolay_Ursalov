@@ -33,5 +33,57 @@
   <td></td>
 </tr>
 
+<tr>
+  <td colspan="2"><h3>2. Splash and Landing page</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.1. Splash page</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.2. Landing page</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="2"><h4>3. Main menu</h4></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.1. Menu items</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.2. Market</td>
+  <td>Blocked</td>
+  <td>Need a credit card with funds</td>
+</tr>
+<tr>
+  <td colspan="2">3.3. Creating of the user profile</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.4. Creating of the user profile via social buttons</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.5. Showing of users’ records in the animation format</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.6. Social buttons of developers’ company</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
 
 </table>
