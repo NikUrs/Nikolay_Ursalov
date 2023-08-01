@@ -1,6 +1,6 @@
 <table>
 
-Platform: PC
+Platform: PC<br>
 OS: Windows
 OS Version: 10 x64
 Game Build version: 0.1.21
