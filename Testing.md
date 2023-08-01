@@ -57,7 +57,7 @@
   <td colspan="2">3.1. Main Menu screen</td>
   <td>Pass</td>
   <td>Bug Report 005. Chinese words are shown on the main menu screen   
-  <a href="https://docs.google.com/spreadsheets/d/136ptngWWdCebSHk99Pl9DWrSRwNVvRtw/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a><br>
+  <a href="https://docs.google.com/spreadsheets/d/136ptngWWdCebSHk99Pl9DWrSRwNVvRtw/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 005</a><br>
     Bug Report 006. The text of the button is shown beyond its borders    
   <a href="https://docs.google.com/spreadsheets/d/1E1L2WNzd9QIJbnJSeANiHoqPqQAB0Bup/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 006</a>
   </td>
@@ -67,8 +67,8 @@
   <tr>
   <td colspan="2">3.2. Settings</td>
   <td>Pass</td>
-  <td>Bug Report 004. The button name is cut on both side in the "Setting" item</br>
-  <a href="https://docs.google.com/spreadsheets/d/1JtND4OXxiNjMxw6SjQKXEn2vB9zqSYrH/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a></td>
+  <td>Bug Report 004. The button name is cut on both side in the "Setting" item
+  <a href="https://docs.google.com/spreadsheets/d/1JtND4OXxiNjMxw6SjQKXEn2vB9zqSYrH/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 004</a></td>
 </tr>
 <tr>
   <td colspan="2">3.3. Market</td>
@@ -145,13 +145,13 @@
 <tr>
   <td colspan="2">5.2. The custom format of the creating a mini game</td>
   <td>Pass</td>
-  <td>Bug Report 001. The object model that creates enemies models is set up outside the game area</br> <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
+  <td>Bug Report 001. The object model that creates enemies models is set up outside the game area <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
 </tr>
 
 <tr>
   <td colspan="2">5.3. Gameplay flow including starting and completing the level</td>
   <td>Pass</td>
-  <td>Bug Report 002. The timer of the game round isn’t stopped after the game is collapsed</br>
+  <td>Bug Report 002. The timer of the game round isn’t stopped after the game is collapsed
   <a href="https://docs.google.com/spreadsheets/d/1MWLGoraF_eIUYwD_x6T1-P8UT2ttqVMi/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a>
   </td>
 </tr>
@@ -193,7 +193,7 @@
 <tr>
   <td colspan="2">5.5. Mini game timer</td>
   <td>Pass</td>
-  <td>Bug Report 003. The timer of the game round isn’t stopped after the game is collapsed</br>
+  <td>Bug Report 003. The timer of the game round isn’t stopped after the game is collapsed   
   <a href="https://docs.google.com/spreadsheets/d/1dYIw_f5Ee45g1lpl0jiZws-KVrvgtIQU/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 003</a></td>
 </tr>
 
