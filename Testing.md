@@ -126,7 +126,7 @@
   <td></td>
 </tr>
 <tr>
-  <td> colspan="2"5.1. Guide-line for a first time experience</td>
+  <td> colspan="2">5.1. Guide-line for a first time experience</td>
   <td>Pass</td>
   <td></td>
 </tr>
