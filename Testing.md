@@ -25,7 +25,7 @@
   <td colspan="2">1.3. Launching</td>
   <td>Pass</td>
   <td colspan="2">Bug - 001 The object model that creates enemies </br>
-    models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
+    models is set up outside the game area <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Перейти на баг-репорт</a></td>
 </tr>
 
 
