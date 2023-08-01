@@ -27,10 +27,11 @@
   <td></td>
 </tr>
 <tr>
-  <td>1.3. Uninstalling</td>
+  <td>1.4. Uninstalling</td>
   <td>Pass</td>
   <td></td>
 </tr>
+
 <tr>
   <td><h4>2. Splash and Landing page</h4></td>
   <td></td>
@@ -47,4 +48,65 @@
   <td></td>
 </tr>
 
+<tr>
+  <td><h4>3. Main menu</h4></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.1. Menu items</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.2. Market</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.3. Creating of the user profile</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.4. Creating of the user profile via social buttons</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.5. Showing of users’ records in the animation format</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.6. Social buttons of developers’ company</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td><h4>4. Main menu</h4></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.1. Menu items</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.2. Market</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.3. Creating of the user profile</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3.4. Creating of the user profile via social buttons</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
 </table>
