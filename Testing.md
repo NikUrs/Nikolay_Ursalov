@@ -7,12 +7,12 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h4>1. Installing / Uninstalling & launching the game</h4></td>
+  <td colspan="4"><h4>1. Installing / Uninstalling & launching the game</h4></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.1. Download on the Steam</td>
+  <td colspan="4">1.1. Download on the Steam</td>
   <td>Pass</td>
   <td></td>
 </tr>
