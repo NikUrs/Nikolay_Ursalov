@@ -8,5 +8,5 @@ Types of testing that I have used:<br>
 <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/%22Creative%20Console%22%20game">Link to test documentation </a>
 
 <h3>2. InternShip</h3>
-Client-server application that helps to automate the communication between school and students via Telegram chatbot.<br>
+Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.<br>
 <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/INTERNSHIP%20-%20Prog%20Academy">Link to test codumentation</a>
