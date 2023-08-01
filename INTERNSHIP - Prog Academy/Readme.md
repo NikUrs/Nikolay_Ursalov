@@ -1,5 +1,5 @@
 <h4>Internship Test Documentation</h4>
-(Attachments isn't opened in the incognito mode of a browser)
+(Attachments isn't opened in the incognito mode of a browser)<br>
 
 <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">Bug Report 001 [Back-end-01]. The success page is shown after sending the registration form with the reused email address.</a>
 
