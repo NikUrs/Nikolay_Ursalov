@@ -12,7 +12,7 @@
   <td></td>
 </tr>
 <tr>
-  <td><bold>1.1. Download on the Steam</bold></td>
+  <td>1.1. Download on the Steam</td>
   <td>Pass</td>
   <td></td>
 </tr>
