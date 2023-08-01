@@ -56,14 +56,12 @@
 <tr>
   <td colspan="2">3.1. Main Menu screen</td>
   <td>Pass</td>
-  <td>Bug Report 005. Chinese words are shown on the main menu screen</br>
+  <td>Bug Report 005. Chinese words are shown on the main menu screen   
   <a href="https://docs.google.com/spreadsheets/d/136ptngWWdCebSHk99Pl9DWrSRwNVvRtw/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a><br>
-    Bug Report 006. The text of the button is shown beyond its borders</br>
-  <a href="https://docs.google.com/spreadsheets/d/1E1L2WNzd9QIJbnJSeANiHoqPqQAB0Bup/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a>                                                                                                                                                                             
-                                                                                                                                                                                   
+    Bug Report 006. The text of the button is shown beyond its borders    
+  <a href="https://docs.google.com/spreadsheets/d/1E1L2WNzd9QIJbnJSeANiHoqPqQAB0Bup/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 006</a>
   </td>
 
-  https://docs.google.com/spreadsheets/d/136ptngWWdCebSHk99Pl9DWrSRwNVvRtw/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true
 </tr>
 <tr>
   <tr>
