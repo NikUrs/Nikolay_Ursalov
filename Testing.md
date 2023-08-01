@@ -24,7 +24,7 @@
 <tr>
   <td colspan="2">1.3. Launching</td>
   <td>Pass</td>
-  <td></td>
+  <td>Bug - 001 The object model that creates enemies models is set up outside the game area https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link</td>
 </tr>
 
 
