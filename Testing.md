@@ -133,13 +133,13 @@
 <tr>
   <td colspan="2">5.2. The custom format of the creating a mini game</td>
   <td>Pass</td>
-  <td>Bug - 001 The object model that creates enemies models is set up outside the game area <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
+  <td>Bug Report 001. The object model that creates enemies models is set up outside the game area <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
 </tr>
 
 <tr>
   <td colspan="2">5.3. Gameplay flow including starting and completing the level</td>
   <td>Pass</td>
-  <td>Bug - 001 The object model that creates enemies models is set up outside the game area <a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
+  <td>Bug Report 002. The timer of the game round isn’t stopped after the game is collapsed<a href="https://docs.google.com/spreadsheets/d/1MWLGoraF_eIUYwD_x6T1-P8UT2ttqVMi/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 002</a></td>
 </tr>
 <tr>
   <td colspan="2">5.2. Character control </td>
