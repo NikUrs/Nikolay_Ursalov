@@ -65,7 +65,7 @@
   <td>Need a credit card with funds</td>
 </tr>
 <tr>
-  <td colspan="2">3.3. Creating of the user profile</td>
+  <td colspan="2">3.3. Creating of the user profile via authorization form</td>
   <td>Pass</td>
   <td></td>
 </tr>
@@ -86,37 +86,38 @@
 </tr>
 
 <tr>
-  <td><h3>4. Menu before starting the mini game</h3></td>
+  <td colspan="2"><h3>4. Menu before starting the mini game</h3></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>4.1. Animations </td>
+  <td colspan="2">4.1. Animations </td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>4.2. Constructor of the level</td>
+  <td colspan="2">4.2. Constructor of the level</td>
+  <td>Pass</td>
+  <td>Bug Report 001. The object model that creates enemies </br>
+    models is set up outside the game area </br><a href="https://docs.google.com/spreadsheets/d/1AkTl4XcBWRuirASFcQn99zarTem1yJeD/edit?usp=drive_link">Link to Bug Report 001</a></td>
+</tr>
+<tr>
+  <td colspan="2">4.3. Navigation between mini games</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>4.3. Navigation between mini games</td>
+  <td colspan="2">4.4. Mini games modes</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>4.4. Mini games modes</td>
+  <td colspan="2">4.5. Guide-line before starting the game </td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td>4.5. Guide-line before starting the game </td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td>4.6. Guide-line after the game is finished</td>
+  <td colspan="2">4.6. Guide-line after the game is finished</td>
   <td>Pass</td>
   <td></td>
 </tr>
