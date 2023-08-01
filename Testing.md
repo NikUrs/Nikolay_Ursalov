@@ -137,7 +137,7 @@
 </tr>
 <tr>
   <td>5.3. Saving scores</td>
-  <td>Pass</td>
+  <td></td>
   <td></td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@
 </tr>
 <tr>
   <td>5.10. Background Music and Sounds</td>
-  <td>Pass</td>
+  <td></td>
   <td></td>
 </tr>
 <tr>
