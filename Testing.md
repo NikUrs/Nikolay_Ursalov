@@ -5,6 +5,6 @@
 </tr>
 
 <tr>
-  <td>Один</td>
+  <td style="color:green">Один</td>
 </tr>
 </table>
