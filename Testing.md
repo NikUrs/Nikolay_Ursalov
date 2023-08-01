@@ -119,13 +119,95 @@
   <td>Pass</td>
   <td></td>
 </tr>
+
 <tr>
-  <td>5. Game process</td>
+  <td><h4>5. Game process</h4></td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
   <td>5.1. Guide-line for a first time experience</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.2. Character control </td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3. Saving scores</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3.1. During the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3.2. After the each mini game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.3.3. After the relaunching of the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.4. Increasing the score during the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.5. Pause</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.6. Menu options</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.7. Mini games' animation</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.8. Appearance of the main model characters</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.9. Appearance of the additional model characters (map, game objects)</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10. Background Music and Sounds</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10.1. On the each stage of the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10.2. Сompletely off the sound</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5.10.3. sound down</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+                                         
+  <tr>
+  <td>5.8. Appearance of the main model characters</td>
   <td>Pass</td>
   <td></td>
 </tr>
