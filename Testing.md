@@ -31,4 +31,20 @@
   <td>Pass</td>
   <td></td>
 </tr>
+<tr>
+  <td><h4>2. Splash and Landing page</h4></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>2.1. Splash page</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td>2.2. Landing page</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
 </table>
