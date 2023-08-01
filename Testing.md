@@ -9,7 +9,7 @@
 <tr>
   <td colspan="2"><h4>1. Installing / Uninstalling & launching the game</h4></td>
   <td></td>
-  
+  <td></td>
 </tr>
 <tr>
   <td colspan="2">1.1. Download on the Steam</td>
@@ -27,9 +27,5 @@
   <td></td>
 </tr>
 
-<tr>
-  <td>5.12.2. Via cross icon</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
+
 </table>
