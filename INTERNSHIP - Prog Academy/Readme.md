@@ -1,11 +1,11 @@
-Internship Test Documentation
+Internship Test Documentation (links)
 
 <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">Bug Report 001 [Back-end-01]. The success page is shown after sending the registration form with the reused email address.</a>
 
 
 
-Bug Report 002 [Back-end-02]. After sending the reused invite code the registration page is opened.
-https://docs.google.com/spreadsheets/d/1Fn7lGfk7Sxg4w7P8sfubcdUS0Z6yhLiAXcfR8-r9ZE4/edit?usp=drive_link
+<a href="https://docs.google.com/spreadsheets/d/1Fn7lGfk7Sxg4w7P8sfubcdUS0Z6yhLiAXcfR8-r9ZE4/edit?usp=drive_link">Bug Report 002 [Back-end-02]. After sending the reused invite code the registration page is opened.</a>
+
 
 
 Bug Report 003 [Front-end-01]. After clicking on the "Surname" label the "Fist name" field is got the focus state.
