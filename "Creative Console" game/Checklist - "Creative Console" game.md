@@ -1,15 +1,6 @@
 
 <table>
-  Platform: PC<br>
-OS: Windows<br> 
-OS Version: 10 x64<br>
-Tester: Nikolay Ursalov<br>
-</table>
-
-
-<table>
-
-<tr>
+  <tr>
   <td>
   Platform: PC<br>
   OS: Windows<br> 
@@ -17,6 +8,10 @@ Tester: Nikolay Ursalov<br>
   Tester: Nikolay Ursalov<br>
   </td>
 </tr>
+</table>
+
+
+<table>
 
 <tr>
   <th colspan="2"><h3>Checking</h3></th>
