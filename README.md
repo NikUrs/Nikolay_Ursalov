@@ -7,8 +7,8 @@ Types of testing that I have used:<br>
 <br>
 <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/%22Creative%20Console%22%20game">Link to test documentation </a>
 
-1.2. "Outland Odyssey" testing is in progress.<br>
-<a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/%22Creative%20Console%22%20game">Link to test documentation </a>
+1.2. Outland Odyssey (testing is in progress)<br>
+<a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/%22Outland%20Odyssey%22%20mobile%20game">Link to test documentation </a>
 
 <h3>2. InternShip</h3>
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.<br>
