@@ -137,7 +137,7 @@
   <td></td>
 </tr>
  <tr>
-  <td colspan="2">4.4. Fighting mode</td>
+  <td colspan="2"><h5>4.4. Fighting mode</h5></td>
   <td></td>
   <td></td>
 </tr>
