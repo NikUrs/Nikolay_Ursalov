@@ -1,9 +1,10 @@
 
 
 
-  Platform: PC<br>
-  OS: Windows<br> 
-  OS Version: 10 x64<br>
+  Platform: Mobile<br>
+  OS: Android<br> 
+  OS Version: 12<br>
+  Device: Xiaomi Redmi Note 9
   Tester: Nikolay Ursalov<br>
 
 
