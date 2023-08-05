@@ -1,14 +1,11 @@
 
-<table>
-  <tr>
-  <td>
+
+
   Platform: PC<br>
   OS: Windows<br> 
   OS Version: 10 x64<br>
   Tester: Nikolay Ursalov<br>
-  </td>
-</tr>
-</table>
+
 
 
 <table>
