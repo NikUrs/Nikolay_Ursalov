@@ -228,7 +228,7 @@
 </tr>
 
 <tr>
-  <td colspan="2">6. Functions of the device</td>
+  <td colspan="2"><h5>6. Functions of the device</h5></td>
   <td>Pass</td>
   <td></td>
 </tr>
