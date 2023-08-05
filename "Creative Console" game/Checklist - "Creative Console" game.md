@@ -1,7 +1,11 @@
-Platform: PC<br>
+
+<table>
+  Platform: PC<br>
 OS: Windows<br> 
 OS Version: 10 x64<br>
 Tester: Nikolay Ursalov<br>
+</table>
+
 
 <table>
 
