@@ -6,6 +6,13 @@ Tester: Nikolay Ursalov<br>
 <table>
 
 <tr>
+  Platform: PC<br>
+  OS: Windows<br> 
+  OS Version: 10 x64<br>
+  Tester: Nikolay Ursalov<br>
+</tr>
+
+<tr>
   <th colspan="2"><h3>Checking</h3></th>
   <th><h3>Status</h3></th>
   <th><h3>Bug / Comments</h3></th>
