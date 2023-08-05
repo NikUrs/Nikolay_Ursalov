@@ -4,7 +4,7 @@
   Platform: Mobile<br>
   OS: Android<br> 
   OS Version: 12<br>
-  Device: Xiaomi Redmi Note 9
+  Device: Xiaomi Redmi Note 9<br>
   Tester: Nikolay Ursalov<br>
 
 
