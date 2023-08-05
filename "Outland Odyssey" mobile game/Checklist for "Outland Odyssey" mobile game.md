@@ -42,11 +42,6 @@
   <td>Pass</td>
   <td></td>
 </tr>
-<tr>
-  <th colspan="2"><h3>Checking</h3></th>
-  <th><h3>Status</h3></th>
-  <th><h3>Bug / Comments</h3></th>
-</tr>
 
 <tr>
   <td colspan="2"><h3>2. Splash and Landing page</h3></td>
@@ -65,27 +60,139 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h3>1. Installing / Uninstalling & launching the game</h3></td>
+  <td colspan="2"><h3>3. Main menu</h3></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.1. Download on the Steam</td>
+  <td colspan="2">3.1. Navigation</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.2. Installation</td>
+  <td colspan="2">3.2. Guest mode</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.3. Launching</td>
+  <td colspan="2">3.3. Sign-in mode</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.4. Uninstalling</td>
+  <td colspan="2">3.4. Authorization</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.4.1. With social buttons</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3.4.2. With email address</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
+
+<tr>
+  <td colspan="2"><h3>4. Game process</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.1. Game first experience (including guide-line)</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.2. Control the main character</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.3. Locations</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.3.1. Fighting locations</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.3.2. Fighting location with a major (boss) enemy</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.3.3. Peaceful locations</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.3.4. Limited of each location</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+ <tr>
+  <td colspan="2">4.4. Fighting mode</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.1. Attack skills of the main character</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.2. Major skills of the main character</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.3. Fighting with enemies</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.4. Decreasing of the main character's health scale</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.5. Increasing of the main character's health scale (recovering)</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.6. Rewards for killing enemies</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.4. Decreasing of the main character's health scale</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.5. Increasing of the main character's health scale (recovering)</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.6. Rewards for killing enemies</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.7. Main character death</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.4.8. Enemy death</td>
   <td>Pass</td>
   <td></td>
 </tr>
