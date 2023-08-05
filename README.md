@@ -7,8 +7,8 @@ Types of testing that I have used:<br>
 
 <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/%22Creative%20Console%22%20game">Link to test documentation </a>
 
-1.2. The exploratory testing for the mobile game from Play Market is in progress. 
-
+1.2. The exploratory testing for the mobile game from Play Market is in progress.<br>
+"Outland Odyssey" game<br>
 <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/%22Creative%20Console%22%20game">Link to test documentation </a>
 
 <h3>2. InternShip</h3>
