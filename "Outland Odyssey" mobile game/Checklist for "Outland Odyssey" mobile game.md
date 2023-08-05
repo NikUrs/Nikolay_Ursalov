@@ -196,6 +196,68 @@
   <td>Pass</td>
   <td></td>
 </tr>
+<tr>
+  <td colspan="2">4.5. Transition between the levels</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.6. 3D scene of the main character</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.7. Menu between the levels</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.7.1. Checking the level</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.7.2. Market</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">5. Exit the game</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="2">6. Functions of the device</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">6.1. Phone call link</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">6.2. Hiding / uncovering of the app</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">6.3. The reaction for the charging</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">6.4. The reaction for the locking/unlocking the screen</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">6.5. The reaction for the connection/disconnection Network</td>
+  <td>Pass</td>
+  <td></td>
+</tr>
+
 
 </table>
 
