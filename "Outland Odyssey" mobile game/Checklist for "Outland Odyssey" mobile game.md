@@ -222,7 +222,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">5. Exit the game</td>
+  <td colspan="2"><h5>5. Exit the game</h5></td>
   <td>Pass</td>
   <td></td>
 </tr>
