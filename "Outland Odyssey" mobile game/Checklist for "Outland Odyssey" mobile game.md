@@ -154,8 +154,8 @@
 </tr>
 <tr>
   <td colspan="2">4.4.3. Fighting with enemies</td>
-  <td>Pass</td>
-  <td></td>
+  <td>Fail</td>
+  <td>001 [Front-end]. A “-2” value is shown on the screen after each attack of small wild boars when the main character’s health scale is increased by 1 point.<a href="https://docs.google.com/spreadsheets/d/1p3bXIAtiRQQpVOyJgKB3Ux_k6sIVRXkK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Link to bug report</a></td>
 </tr>
 <tr>
   <td colspan="2">4.4.4. Decreasing of the main character's health scale</td>
