@@ -155,7 +155,7 @@
 <tr>
   <td colspan="2">4.4.3. Fighting with enemies</td>
   <td>Fail</td>
-  <td>001 [Front-end]. A “-2” value is shown on the screen after each attack of small wild boars when the main character’s health scale is increased by 1 point.<a href="https://docs.google.com/spreadsheets/d/1p3bXIAtiRQQpVOyJgKB3Ux_k6sIVRXkK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Link to bug report</a></td>
+  <td>001 [Front-end]. A “-2” value is shown on the screen after each attack of small wild boars when the main character’s health scale is increased by 1 point.<a href="https://docs.google.com/spreadsheets/d/1p3bXIAtiRQQpVOyJgKB3Ux_k6sIVRXkK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">   Link to bug report</a></td>
 </tr>
 <tr>
   <td colspan="2">4.4.4. Decreasing of the main character's health scale</td>
@@ -225,7 +225,7 @@
 <tr>
   <td colspan="2">4.8. Menu options that open after starting a level</td>
   <td>Fail</td>
-  <td>002 [Front-end]. The menu options isn't shown after typing on the "Menu options" button.<a href="https://docs.google.com/spreadsheets/d/1Q6PNKGGeixaVTmwg2hciz47wQe3_69rk/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Link to bug report</a></td>
+  <td>002 [Front-end]. The menu options isn't shown after typing on the "Menu options" button.<a href="https://docs.google.com/spreadsheets/d/1Q6PNKGGeixaVTmwg2hciz47wQe3_69rk/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">   Link to bug report</a></td>
 </tr>
 <tr>
   <td colspan="2"><h5>5. Exit the game</h5></td>
