@@ -133,8 +133,8 @@
 </tr>
 <tr>
   <td colspan="2">4.3.4. Limited of each location</td>
-  <td>Pass</td>
-  <td></td>
+  <td>Fail</td>
+  <td>003 [Front-end]. The main character can pass through the barrier after activating a fighting scene.   <a href="https://docs.google.com/spreadsheets/d/1QliI3JSDhvYZ4d4QBUVKsq2ujKJOzGs3/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Link to bug report</a></td>
 </tr>
 
  <tr>
