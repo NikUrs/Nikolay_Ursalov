@@ -136,6 +136,7 @@
   <td>Pass</td>
   <td></td>
 </tr>
+
  <tr>
   <td colspan="2"><h5>4.4. Fighting mode</h5></td>
   <td></td>
@@ -220,6 +221,11 @@
   <td colspan="2">4.7.2. Market</td>
   <td>Pass</td>
   <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.8. Menu options that open after starting a level</td>
+  <td>Fail</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1Q6PNKGGeixaVTmwg2hciz47wQe3_69rk/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">002 [Front-end]. The menu options isn't shown after typing on the "Menu options" button.</a></td>
 </tr>
 <tr>
   <td colspan="2"><h5>5. Exit the game</h5></td>
