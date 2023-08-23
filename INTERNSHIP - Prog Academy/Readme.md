@@ -20,8 +20,7 @@ On this page user sends the registration form, which is filled with his personal
 User can go to the chatbot “Prog Julia” by clicking on the button. <br>
 Also, the link to the chatbot “Prog Julia” is sent to user's email address. <br>
 
-
-Chatbot commands<br>
+- Chatbot commands<br>
 For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.<br><br>
 
