@@ -1,3 +1,5 @@
+<h4>Check list</h4>
+
 1. “Invite” page<br>
 - sending a valid invite code<br>
 - sending an invalid invite code<br>
