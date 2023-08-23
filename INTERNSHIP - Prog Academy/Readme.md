@@ -41,16 +41,16 @@ Managers can generate a certificate of any course for one student or for one gro
 Successfully message: "Command execution finished successfully!"<br><br>
 
 <h4>Testing types</h4>
-- <strong>Functional</strong> testing<br>
-- <strong>GUI</strong> (including Mobile site version)<br>
-- <strong>API</strong> testing<br><br>
-- <strong>Cross Browser</strong> testing<br>
+-- <strong>Functional</strong> testing<br>
+-- <strong>GUI</strong> (including Mobile site version)<br>
+-- <strong>API</strong> testing<br><br>
+-- <strong>Cross Browser</strong> testing<br>
 1. Opera 100.0.4815.21<br>
 2. Google Chrome 114.0.5735.133<br>
 3. Mozilla Firefox 116.0.2<br>
 4. Safari 16.5.2<br><br>
 
---- Security testing<br>
+-- Security testing<br>
 1. Block user’s ip on 1 hour (improvement).<br>
 2. Cookies don’t store invite code.<br><br>
 
