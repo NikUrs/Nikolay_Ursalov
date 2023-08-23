@@ -8,7 +8,7 @@ Testing of the project, which consists of<br>
 
 <h4>User / Admin (manager) rights</h4>
 
-<li>“Invite” page</li>
+- “Invite” page
 User can enter an invite code, which he got from a manager or another student. After that, he got access to the “Prog Academy” school website's feature functionality.
 
 <li>“Registration” page</li>
@@ -23,7 +23,7 @@ For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.
 
 <h4>Admin (manager) rights</h4>
-<li>“Certificate” page</li><br>
+-- “Certificate” page<br>
 Managers can generate a certificate of any course for one student or for one group.  <br>
 
 <h5>A set of chatbot commands:</h5>
