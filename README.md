@@ -12,4 +12,4 @@ Types of testing that I have used:<br>
 
 <h3>2. InternShip</h3>
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.<br>
-<a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/%22Outland%20Odyssey%22%20mobile%20game">Link to test codumentation</a>
+<a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/INTERNSHIP%20-%20Prog%20Academy">Link to test codumentation</a>
