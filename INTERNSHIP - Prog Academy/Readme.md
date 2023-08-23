@@ -8,6 +8,41 @@ Testing of the project, which consists of<br>
 - “Certificate” page<br>
 - Сhatbot commands<br><br>
 
+<h4>User / Admin rights</h4><br><br>
+
+- “Invite” page<br>
+User can enter an invite code, which he got from a manager or another student. After that, he got access to the “Prog Academy” school website's feature functionality.<br>
+
+- “Registration” page<br>
+On this page user sends the registration form, which is filled with his personal information, to the server. After sending that form the user gets the email with the link to the chatbot “Prog Julia” in Telegram. <br>
+
+- “Success” page<br>
+User can go to the chatbot “Prog Julia” by clicking on the button. <br>
+Also, the link to the chatbot “Prog Julia” is sent to user's email address. <br>
+
+
+Chatbot commands<br>
+For managers, chatbot commands help to automate their work. <br>
+Students can get the necessary information without managers' help.<br><br>
+
+A set of chatbot commands: <br>
+/set_email: set email(s) to user<br>
+/certificate: Command to generate and send certificates to students.<br>
+/invite_group_new: create an invite code to join the group of users<br>
+/help: List all commands<br>
+/group_list: list all groups<br>
+/users_list: show a list of all users<br>
+/set_phone: set phone(s) to user<br>
+/user_find: find the user by phone or e-mail<br>
+/group_new: create a new group of users<br>
+/broadcast: broadcast message to users<br><br>
+
+Successfully message: "Command execution finished successfully!"<br><br>
+
+Admin (manager) rights<br>
+- “Certificate” page<br>
+Managers can generate a certificate of any course for one student or for one group.  <br>
+
 
 <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">Bug Report 001 [Back-end-01]. The success page is shown after sending the registration form with the reused email address.</a>
 
