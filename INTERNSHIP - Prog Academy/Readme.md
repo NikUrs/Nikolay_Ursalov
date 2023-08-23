@@ -40,7 +40,7 @@ Managers can generate a certificate of any course for one student or for one gro
 
 Successfully message: "Command execution finished successfully!"<br><br>
 
-<h4>Testing types</h4>
+<h4 tabindex="-1">Testing types</h4>
 - Functional testing<br>
 - GUI (including Mobile site version)<br>
 - API testing<br>
