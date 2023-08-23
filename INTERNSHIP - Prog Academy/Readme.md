@@ -6,7 +6,7 @@ Testing of the project, which consists of<br>
 - “Certificate” page<br>
 - Сhatbot commands<br><br>
 
-<h4>User / Admin rights</h4>
+<h4>User / Admin (manager) rights</h4>
 
 <li>“Invite” page</li>
 User can enter an invite code, which he got from a manager or another student. After that, he got access to the “Prog Academy” school website's feature functionality.
