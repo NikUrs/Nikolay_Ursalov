@@ -24,7 +24,7 @@ Also, the link to the chatbot “Prog Julia” is sent to user's email address. 
 For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.<br><br>
 
-A set of chatbot commands:<br>
+<h6>A set of chatbot commands:</h6><br>
 ---
 /set_email: set email(s) to user<br>
 /certificate: Command to generate and send certificates to students.<br>
