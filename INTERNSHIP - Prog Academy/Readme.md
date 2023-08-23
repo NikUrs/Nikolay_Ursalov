@@ -41,11 +41,11 @@ Managers can generate a certificate of any course for one student or for one gro
 Successfully message: "Command execution finished successfully!"<br><br>
 
 <h4>Testing types</h4>
-- Functional testing
-- GUI (including Mobile site version)
-- API TESTING
-- Cross Browser testing
-- Security testing
+- Functional testing<br>
+- GUI (including Mobile site version)<br>
+- API testing<br>
+- Cross Browser testing<br>
+- Security testing<br>
 
 
 <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">Bug Report 001 [Back-end-01]. The success page is shown after sending the registration form with the reused email address.</a>
