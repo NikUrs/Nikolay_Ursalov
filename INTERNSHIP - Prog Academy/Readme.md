@@ -24,6 +24,10 @@ Also, the link to the chatbot “Prog Julia” is sent to user's email address. 
 For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.<br><br>
 
+<h4>Admin (manager) rights</h4><br>
+- “Certificate” page<br>
+Managers can generate a certificate of any course for one student or for one group.  <br>
+
 <h5>A set of chatbot commands:</h5>
 /set_email: set email(s) to user<br>
 /certificate: Command to generate and send certificates to students.<br>
@@ -38,9 +42,6 @@ Students can get the necessary information without managers' help.<br><br>
 
 Successfully message: "Command execution finished successfully!"<br><br>
 
-Admin (manager) rights<br>
-- “Certificate” page<br>
-Managers can generate a certificate of any course for one student or for one group.  <br>
 
 
 <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">Bug Report 001 [Back-end-01]. The success page is shown after sending the registration form with the reused email address.</a>
