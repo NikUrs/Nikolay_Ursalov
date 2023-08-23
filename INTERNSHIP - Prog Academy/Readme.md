@@ -1,6 +1,4 @@
-<h3>Internship Test Documentation</h3>
-(Attachments isn't opened in the incognito mode of a browser)<br><br>
-
+<h3>Internship - Test Documentation</h3>
 Testing of the project, which consists of<br>
 - “Invite” page<br>
 - “Registration” page<br>
