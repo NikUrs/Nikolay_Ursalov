@@ -8,7 +8,7 @@ Testing of the project, which consists of<br>
 - “Certificate” page<br>
 - Сhatbot commands<br><br>
 
-<h4>User / Admin rights</h4><br><br>
+<h4>User / Admin rights</h4><br>
 
 - “Invite” page<br>
 User can enter an invite code, which he got from a manager or another student. After that, he got access to the “Prog Academy” school website's feature functionality.<br>
@@ -24,7 +24,7 @@ Also, the link to the chatbot “Prog Julia” is sent to user's email address. 
 For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.<br><br>
 
-A set of chatbot commands: <br>
+A set of chatbot commands: <hr><br>
 /set_email: set email(s) to user<br>
 /certificate: Command to generate and send certificates to students.<br>
 /invite_group_new: create an invite code to join the group of users<br>
