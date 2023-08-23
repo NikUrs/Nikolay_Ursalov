@@ -22,7 +22,7 @@ Also, the link to the chatbot “Prog Julia” is sent to user's email address. 
 
 - Chatbot commands<br>
 For managers, chatbot commands help to automate their work. <br>
-Students can get the necessary information without managers' help.<br><br>
+Students can get the necessary information without managers' help.
 
 <h4>Admin (manager) rights</h4>
 - “Certificate” page<br>
