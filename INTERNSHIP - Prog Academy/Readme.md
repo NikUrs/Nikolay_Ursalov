@@ -48,7 +48,7 @@ Successfully message: "Command execution finished successfully!"<br><br>
 1. Opera 100.0.4815.21<br>
 2. Google Chrome 114.0.5735.133<br>
 3. Mozilla Firefox 116.0.2<br>
-4. Safari 16.5.2<br><br>
+4. Safari 16.5.2<br>
 
 - Security testing<br>
 1. Block user’s ip on 1 hour (improvement).<br>
