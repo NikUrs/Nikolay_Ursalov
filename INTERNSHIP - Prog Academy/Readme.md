@@ -44,7 +44,7 @@ Successfully message: "Command execution finished successfully!"<br><br>
 -- <strong>Functional</strong> testing<br>
 -- <strong>GUI</strong> (including Mobile site version)<br>
 -- <strong>API</strong> testing<br><br>
--- <strong>Cross Browser</strong> testing
+-- <strong>Cross Browser</strong> testing<br>
 1. Opera 100.0.4815.21<br>
 2. Google Chrome 114.0.5735.133<br>
 3. Mozilla Firefox 116.0.2<br>
