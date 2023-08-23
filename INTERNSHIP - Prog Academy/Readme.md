@@ -42,12 +42,17 @@ Successfully message: "Command execution finished successfully!"<br><br>
 
 <h4>Testing types</h4>
 - <strong>Functional</strong> testing<br>
-- GUI (including Mobile site version)<br>
-- API testing<br>
-- Cross Browser testing<br>
+- <strong>GUI</strong> (including Mobile site version)<br>
+- <strong>API</strong> testing<br><br>
+- <strong>Cross Browser</strong> testing<br>
 1. Opera 100.0.4815.21<br>
 2. Google Chrome 114.0.5735.133<br>
+3. Mozilla Firefox 116.0.2<br>
+4. Safari 16.5.2<br><br>
+
 - Security testing<br>
+1. Block user’s ip on 1 hour (improvement).<br>
+2. Cookies don’t store invite code.<br><br>
 
 
 <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">Bug Report 001 [Back-end-01]. The success page is shown after sending the registration form with the reused email address.</a>
