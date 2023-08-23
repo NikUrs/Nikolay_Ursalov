@@ -24,7 +24,7 @@ Also, the link to the chatbot “Prog Julia” is sent to user's email address. 
 For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.<br><br>
 
-<h4>Admin (manager) rights</h4><br>
+<h4>Admin (manager) rights</h4>
 - “Certificate” page<br>
 Managers can generate a certificate of any course for one student or for one group.  <br>
 
