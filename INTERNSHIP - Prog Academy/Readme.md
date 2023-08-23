@@ -45,6 +45,8 @@ Successfully message: "Command execution finished successfully!"<br><br>
 - GUI (including Mobile site version)<br>
 - API testing<br>
 - Cross Browser testing<br>
+* Opera 100.0.4815.21
+* Google Chrome 114.0.5735.133
 - Security testing<br>
 
 
