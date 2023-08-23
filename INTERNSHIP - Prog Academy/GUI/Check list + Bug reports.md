@@ -8,11 +8,11 @@
 - All the error messages match with the field label<br><br>
 
 Mobile site version<br>
-	- Navigation<br>
-  - burger button<br>
-	- the elements have enough size for tapping<br>
-	- Check the visual display of tapping different elements of the site (buttons, links, drop-down lists, etc.)<br>
-	- Full version of the site link	<br><br>
+- Navigation<br>
+- burger button<br>
+- the elements have enough size for tapping<br>
+- Check the visual display of tapping different elements of the site (buttons, links, drop-down lists, etc.)<br>
+- Full version of the site link	<br><br>
 
  Bug-reports<br>
 - <a href="https://docs.google.com/spreadsheets/d/12KEEJFddZtl741j8TxCts92ghMKKscoNiEowJAWGCqc/edit?usp=drive_link">Bug Report 006 [Front-end-04]. The registration form fields are shifted in relation to each other on mobile screens with a width range of 575-360.</a>
