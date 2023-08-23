@@ -1,4 +1,4 @@
-<h5><strong>Test case</strong></h5>h5>
+<h5><strong>Test case</strong></h5>
 - <a href="https://docs.google.com/spreadsheets/d/1NYSdLCJyl7ICzIMEK1sHL3pvW-ngJJg5/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Sending request with an invalid data for the name key</a>
 - <a href="https://docs.google.com/spreadsheets/d/1tgD6m_swB5_1FQYxG0KPlwJqbFE853OK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Request with an invalid value for the "invite code" key</a><br><br>
 
