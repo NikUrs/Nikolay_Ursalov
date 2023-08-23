@@ -1,6 +1,6 @@
 <h3>1. InternShip</h3>
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.<br>
-<a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/INTERNSHIP%20-%20Prog%20Academy">Link to test codumentation</a>
+<a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/INTERNSHIP%20-%20Prog%20Academy">Link to test dumentation</a>
 
 <h3>2. Testing of diploma project "Counters"</h3>
 Requirements-Based testing of web application that allows users to keep track of electricity meters in a company. <br>
