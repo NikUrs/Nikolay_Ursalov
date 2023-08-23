@@ -2,6 +2,10 @@
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.<br>
 <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/INTERNSHIP%20-%20Prog%20Academy">Link to test codumentation</a>
 
+<h3>2. Testing of diploma project</h3>
+Testing of web application that allows users to keep track of electricity meters in a company. <br>
+Testing is performed using the project's documentation. <br>
+
 <h3>1. Game Testing</h3>
 I have performed exploratory testing for the game from Steam ("Creative Console" v0.1.21), mobile game from Play Market ("Outland Odyssey") <br><br>
 Types of testing that I have used:<br>
