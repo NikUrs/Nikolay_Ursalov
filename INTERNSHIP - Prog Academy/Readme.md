@@ -50,7 +50,7 @@ Successfully message: "Command execution finished successfully!"<br><br>
 3. Mozilla Firefox 116.0.2<br>
 4. Safari 16.5.2<br><br>
 
--- Security testing
+-- <strong>Security</strong> testing
 1. Block user’s ip on 1 hour (improvement).<br>
 2. Cookies don’t store invite code.<br><br>
 
