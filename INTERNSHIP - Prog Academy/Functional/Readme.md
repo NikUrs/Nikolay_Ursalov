@@ -1,3 +1,4 @@
+<h4>Functional testing</h4>
 
 Test-cases<br>
 - <a href="https://docs.google.com/spreadsheets/d/1k1Ho59dMCFbFvGevWtq7IEgSbBQ7ae9TdQ2aKOYOh6w/edit?usp=drive_link">Entering valid data in the "Email" field</a><br>
