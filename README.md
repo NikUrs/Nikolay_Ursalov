@@ -4,7 +4,7 @@ Testing of the client-server application that helps to automate the communicatio
 
 <h3>2. Testing of diploma project "Counters"</h3>
 Requirements-Based testing of web application that allows users to keep track of electricity meters in a company. <br>
-<a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/Diploma%20project%20"Counters">Link to documentation</a>
+<a href='https://github.com/NikUrs/NikolayUrsalov/tree/main/Diploma%20project%20"Counters"'>Link to documentation</a>
 <h3>3. Game Testing</h3>
 I have performed exploratory testing for the game from Steam ("Creative Console" v0.1.21), mobile game from Play Market ("Outland Odyssey") <br><br>
 Types of testing that I have used:<br>
